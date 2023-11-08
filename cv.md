@@ -38,7 +38,11 @@
         </div>
     </section>
 ```
-
+```
+    function perimeterSequence(a,n) {
+       return (a * 4 * n)
+    }
+```
 ## Languages
    Russian \- native\
    English \- B2
