@@ -15,7 +15,7 @@
    The Rolling Scopes School\
    Stage 0
 ## About me
-   I tried myself in different professions and understood, that i'd like to learn more. I'm ready to study and develop in such new and interesting for me sphere. I love teamwork and i'm a good team player. I'm responsible and reliable person.
+   I tried myself in different professions and understood, that i'd like to learn more. I'm ready to study and develop in such new and interesting for me sphere. I love teamwork and i'm a good supportive team player. I'm responsible and reliable person. 
 ## Code
 ```
 <section class="promo">
