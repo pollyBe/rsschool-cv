@@ -131,7 +131,7 @@ h1 {
     line-height: 2;
 }
 
-#code {
+#code .code_example{
     display: block;
     text-align: center;
     padding: 10px 10px;
